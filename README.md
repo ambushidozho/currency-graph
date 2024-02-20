@@ -35,7 +35,4 @@
 
 Желаем удачи и с нетерпением ждем тебя в нашей команде!
 
-<p align="left">
- <img width="250" src="./assets/coter.jpg" alt="jpg"/>
-</p>
 # currency-graph
