@@ -13,6 +13,11 @@ npm install
 npm run start
 ```
 
+Также есть возможность запустить prettier командой 
+```
+npm run format
+```
+
 ## Дополнительная информация
 * Все данные по ценам валют получаются с помощью сайта [**mockAPI**](https://mockapi.io/)
 * В проекте испольхзуется библиотека компонентов [**Consta UI Kit**](https://consta.design/libs/uikit)
