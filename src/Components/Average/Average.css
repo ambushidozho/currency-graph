@@ -1,0 +1,21 @@
+.chart__average {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.chart__average-value {
+    color: #ff8c0c;
+    font-size: 50px;
+    line-height: 50px;
+    font-weight: 700;
+}
+
+.chart__average-value-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}

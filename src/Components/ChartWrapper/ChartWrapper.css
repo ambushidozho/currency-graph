@@ -1,0 +1,19 @@
+.chart__container {
+    min-width: 1000px;
+    height: 400px;
+}
+
+
+@media screen and (min-width: 1300px) {
+    .chart__container {
+        min-width: 1000px;
+        height: 400px;
+    }
+}
+
+@media screen and (max-width: 1300px) {
+    .chart__container {
+        min-width: 500px;
+        height: 300px;
+    }
+}
